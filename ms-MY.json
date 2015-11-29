@@ -1,0 +1,198 @@
+{ 
+	"TYPE_movie": "Filem",
+	"TYPE_series": "Siri",
+	"TYPE_tv": "Saluran TV",
+	"TYPE_channel": "Saluran",
+
+	"TYPE_movie_PL": "Filem",
+	"TYPE_series_PL": "Siri",
+	"TYPE_tv_PL": "Saluran TV",
+	"TYPE_channel_PL": "Saluran",
+
+	"BACK": "Kembali",
+
+	"Discover": "Carian",
+	"Board": "Papan",
+	"Library": "Perpustakaan",
+	"Calendar": "Kalendar",
+	
+	"SEARCH": "cari",
+
+	"ADD_TO_LIB": "Tambah ke Perpustakaan",
+	"REMOVE_FROM_LIB": "Buang dari Perpustakaan",
+	"TRAILER": "Treler",
+	"WATCH_TRAILER": "Tonton Treler",
+	"WATCH_NOW": "Tonton Sekarang",
+	"SHOW": "Tunjuk",
+
+	"IMDB_RATING": "Kedudukan IMDb",
+	"YEAR": "Tahun",
+	"DIRECTOR": "Pengarah",
+	"WRITER": "Penulis",
+	"LEAD_ACTORS": "Pelakon Utama",
+	"CAST": "Pelakon",
+	"AIRED": "Disiarkan",
+	"SEASONS": "Musim",
+	"GENRE": "Genre", 
+	"SUMMARY": "Ringkasan",
+	"SIMILAR": "Serupa",
+	"UPCOMING": "Akan Datang",
+	"ENDED": "Berakhir",
+	"DURATION": "Tempoh",
+
+	"ADDON": "Addon",
+	"ADDONS": "Addon",
+	"OFFICIAL": "rasmi",
+	"ADDONS_OFFICIAL": "Addon Rasmi Stremio",
+	"ADDONS_POPULAR": "Popular di kawasan anda",
+	"ADDON_FREE": "percuma",
+	"ADDON_SUBSCRIPTION": "langganan",
+
+	"AVAILABLE_STREAMS": "Streaming tersedia",
+
+	"NO_STREAM": "Streaming tidak tersedia",
+	"STILL_IN_THEATER": "Filem masih dalam teater",
+	"WATCH_IN_CINEMA": "menontonnya di pawagam berhampiran anda",
+	"CHANNEL_NOT_SCRAPED": "Saluran ini belum diskrap lagi.<br>Sila kembali dalam beberapa minit.",
+	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Tambah ke perpustakaan anda untuk diberitahu sebaik sahaja ia tersedia.",
+	"GET_NOTIFIED_WHEN_AVAILABLE": "Anda akan diberitahu sebaik sahaja ia tersedia.",
+
+	"STREAMING_FROM": "streaming dari",
+	"CASTING_TO": "casting untuk",
+	"NETWORK_STATUS": "Status rangkaian",
+	"STREAM_SPEED": "Kelajuan stream:",
+	"STREAM_BUFFERED": "Buffer:",
+	"PEERS_INFO": "Maklumat peers",
+	"PEERS_ACTIVE": "Aktif:",
+	"PEERS_CONNECTED": "Disambungkan:",
+	"PEERS_WAITING": "Menunggu:",
+
+	"STREAM_LOADING": "memuatkan...",
+	"PLAYING_LOCAL": "dimainkan dari fail lokal",
+	"PLAYING_CACHE": "dimainkan dari cache",
+
+	"WRONG_SUBS": "Sarikata salah?",
+
+	"CHOOSE_DEVICE": "Pilih peranti untuk menonton",
+	
+	"PHONE_TABLET": "Telefon / Tablet",
+
+	"SUBTITLES_CHANGE": "Tukar sarikata untuk ",
+	"SUBTITLES_CHANGE_NONE": "Tiada sarikata lain untuk bahasa ini, maaf.",
+
+
+	"SEASON": "Musim",
+	"EPISODE": "Episod",
+
+	"DISCOVER_FEATURED": "Ditampilkan",
+
+	"SORT_TRENDING": "tren",
+	"SORT_RECENT": "terbaru",
+	"SORT_ALPHABET": "a-z",
+	"SORT_RATING": "kedudukan",
+	"SORT_WATCHED": "telah ditonton",
+	"SORT_YEAR": "tahun",
+
+	"DISCOVER_TOP": "Teratas",
+	"DISCOVER_OSCAR": "Pemenang Oscar",
+
+	"DISCOVER_NOADDON_WARNING": "Amaran: tiada addon Stremio aktif untuk jenis ini. Menunjukkan item yang disimpan, tiada apa yang akan dikemaskini.",
+
+	"RELAUNCH": "Lancarkan semula sekarang!",
+	"UPGRADE": "Naik taraf kepada versi Stremio yang terkini",
+
+	"FB_LOGIN": "Log masuk dengan Facebook",
+	"OR": "atau",
+	"I_ACCEPT": "Saya terima",
+	"TOS": "Terma dan Syarat",
+	"PASSWORDS_NOMATCH": "Katalaluan tidak sama",
+	"SIGN_UP": "Daftar",
+	"LOG_IN": "Log Masuk",
+	"LOG_OUT": "Log Keluar",
+	"GUEST_LOGIN": "Log masuk tetamu",
+	"CLICK_HERE": "klik sini",
+	"WRONG_PASSWORD": "Katalaluan salah. Sekiranya anda terlupa kata laluan anda, ",
+	"SET_A_PASS": "tetapkan katalaluan",
+	"EMAIL_USED_WITH_FB": "E-mel ini telah digunakan dengan log masuk Facebook.",
+
+	"ADDON_DISCLAIMER": "Menggunakan addon pihak ketiga akan sentiasa tertakluk kepada tanggungjawab anda dan undang-undang di kawasan anda.",
+	"ADDON_ACTIVATE": "Actifkan addon ini?",
+
+	"WHATS_NEW": "Apa yang terbaru",
+
+	"BUTTON_CONTINUE": "Sambung",
+	"BUTTON_ACTIVATE": "Aktifkan",
+	"BUTTON_CANCEL": "Batal",
+
+	"LIB_EMPTY": "Perpustakaan anda kelihatan kosong. Ketahui bagaimana ia berguna :) ",
+	"HOW_START": "Berikut adalah bagaimana anda boleh bermula:",
+	"LIB_EMPTY_CAL": "Kalendar anda menunjukkan siri di Perpustakaan anda.",
+	"HOW_START_CAL": "Berikut adalah bagaimana anda menambah siri:",
+	"LIB_EMPTY_BOARD": "Papan menunjukkan pemberitahuan &amp; cadangan yang berkaitan dengan Perpustakaan anda.",
+	"HOW_START_BOARD_WAIT": "Sila tambah beberapa siri atau saluran untuk Perpustakaan anda berikan kami beberapa minit untuk memproses :)",
+	"HOW_START_BOARD": "Berikut adalah bagaimana anda boleh menambah siri &amp; filem kepadanya:",
+	"IMPORT_FB": "Import perkara yang anda suka dari <span>Facebook</span>",
+	"IMPORT_DISCOVER": "Cari barangan menarik dari <span>Carian</span>",
+	"IMPORT_DISK": "Import filem atau rancangan yang anda ada di <span>cakera local</span>",
+
+	"SETTINGS_LAUNCH_STARTUP": "Lancar pada permulaan",
+	"SETTINGS_IMPORT_FB": "Import dari Facebook",
+	"SETTINGS_IMPORT_DISK": "Import dari cakera lokal",
+	"SETTINGS_SUBSCRIBE_CALENDAR": "Langgan kalendar",
+	"SETTINGS_CHANGE_PASSWORD": "Tukar katalaluan",
+	"SETTINGS_TOS": "Terma perkhidmatan",
+	"SETTINGS_SUPPORT": "Hubungi sokongan",
+	"SETTING_LANGUAGE": "Bahasa",
+
+	"QUIT": "Berhenti",
+
+	"CONNETED": "Disambungkan",
+	"AUTHENTICATE": "
+	Mengesahkan",
+	"CACHING": "Membuat cache",
+	"SETTINGS_CACHING_DRIVE": "Pilih cakera caching",
+
+	"January": "Januari",
+	"February": "Februari",
+	"March": "Mac",
+	"April": "April",
+	"May": "Mei",
+	"June": "Jun",
+	"July": "Julai",
+	"August": "Ogos",
+	"September": "September",
+	"October": "Oktober",
+	"November": "November",
+	"December": "Disember",
+
+	"Monday": "Isnin",
+	"Tuesday": "Selasa",
+	"Wednesday": "Rabu",
+	"Thursday": "Khamis",
+	"Friday": "Jumaat",
+	"Saturday": "Sabtu",
+	"Sunday": "Ahad",
+
+	"Action": "Aksi",
+	"Comedy": "Komedi",
+	"War": "Perang",
+	"Family": "Keluarga",
+	"Animation": "Animasi",
+	"Adventure": "Pengembaraan",
+	"Fantasy": "Fantasi",
+	"Crime": "Jenayah",
+	"Mystery": "Misteri",
+	"Romance": "Romantik",
+	"Drama": "Drama",
+	"Horror": "Seram",
+	"Thriller": "Ngeri",
+	"Sci-Fi": "Fiksyen Sains",
+	"Music": "Muzik",
+	"Biography": "Biografi",
+	"Documentary": "Dokumentari",
+	"Sport": "Sukan",
+	"Musical": "Muzikal",
+	"Western": "Barat"
+
+
+}
